@@ -1,3 +1,4 @@
-# PR1-01
+# PR1
 
-See: https://github.com/twnty-1/PR1-01/issues/1
+L01 - Input Output
+See: https://github.com/twnty-1/PR1/issues/1
